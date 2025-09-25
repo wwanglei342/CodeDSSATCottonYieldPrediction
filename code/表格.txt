@@ -1,0 +1,281 @@
+表1
+\begin{table}[H]
+\caption{Soil condition data at the research site.\label{tabe1}}
+	\begin{adjustwidth}{-\extralength}{0cm}
+		\newcolumntype{C}{>{\centering\arraybackslash}X}
+		\begin{tabularx}{\fulllength}{CCCC}
+			\toprule
+			Location of soil data	& 44°22'43''N	& 87°28'53'' E &\\
+                     \midrule
+                      Soil layer(cm)     	                                   & 0-20   & 20-45           &  45-80\\
+                      Bulk density (kg/dm\boldmath{$^3$})	                   & 1.3	& 1.13	          &  1.35 \\
+                      Organic carbon (\% weight)	                           & 0.47	& 032	          &  0.27 \\
+                      PH                                                       & 7.7	& 7.8	          &  8.4  \\
+                      Clay cation exchange capacity (cmol/kg)	               & 44.2	& 47.2	          &  55.5 \\
+                      Cation exchange capacity (cmol/kg)	                   & 11.3	& 11.7	          &  13.0 \\
+                      Alkalinity (\%)	                                       & 14.2	& 15.2	          &  16.0 \\
+                      Salinity (dS/m)	                                       & 10.8	& 15.8	          &  24.0 \\
+                      Gravel content (\%)	                                   & 7.2	& 7.6	          &  8.0  \\
+                      Sand(\%)                                                 & 32.1	& 28.1	          &  37.0 \\
+                      Silt(\%)                                                 & 46.1	& 44.1	          &  42.5 \\
+                      Clay(\%)	                                               & 22.8	& 20.8	          &  17.7 \\
+            \bottomrule
+            \end{tabularx}
+    \end{adjustwidth}
+    \noindent{\footnotesize{}}
+\end{table}
+
+
+表2
+\begin{table}[H]
+\caption{The latitude and longitude of the research location and their conversion.\label{tabe2}}
+	\begin{adjustwidth}{-\extralength}{0cm}
+		\newcolumntype{C}{>{\centering\arraybackslash}X}
+		\begin{tabularx}{\fulllength}{CC}
+			\toprule
+			Universal Transverse Mercator(m) & Degrees-Minutes-Seconds(DMS)  \\
+            \midrule
+            $523888.98081, 4897562.52020$ & $44°13'18''N, 85°10'06''E$\\
+            $523888.98081, 4897661.98587$ & $44°13'21''N, 85°10'06''E$\\
+            $524017.97303, 4897661.98587$ & $44°13'21''N, 85°10'11''E$\\
+            $524017.97303, 4897562.52020$ & $44°13'18''N, 85°10'11''E$\\
+            \bottomrule
+        \end{tabularx}
+    \end{adjustwidth}
+    \noindent{\footnotesize{}}
+\end{table}
+
+表3
+\begin{table}[H]
+\caption{Irrigation and fertilization management data for 4 experimental fields in 2024.\label{tabe3}}
+	\begin{adjustwidth}{-\extralength}{0cm}
+		\newcolumntype{C}{>{\centering\arraybackslash}X}
+		\begin{tabularx}{\fulllength}{CCCCCCCCCCCCCC}
+			\toprule
+DATE    &T1_N	&T1$_P$	&T1$_K$	&T2$_0.95N$	&T2$_0.95P$	&T2$_0.95K$	&T3$_0.9N$	&T3$_0.9P$	&T3$_0.9K$	&T4$_0.85N$	&T4$_0.85P$	& T4$_0.85K$ &Ir\\
+            \midrule
+4/20	&0	    &0	    &0	    &0	        &0	        &0	        &0	        &0	        &0	        &0	        &0	        & 0	        &30\\
+4/30	&0	    &0	    &0	    &0	        &0	        &0	        &0	        &0	        &0	        &0	        &0	        & 0	        &0\\
+5/10	&0	    &0	    &0	    &0	        &0	        &0	        &0	        &0	        &0	        &0	        &0	        & 0	        &0\\
+5/20	&0	    &0	    &0	    &0	        &0	        &0	        &0	        &0	        &0	        &0	        &0	        & 0	        &0\\
+5/30	&0	    &0	    &0	    &0	        &0	        &0	        &0	        &0	        &0	        &0	        &0	        & 0	        &0\\
+6/9	    &16.5	&11.25	&11.25	&15.67	    &10.68	    &10.68	    &14.85	    &10.12	    &10.12	    &14.02	    &9.56	    & 9.55      &9.3\\
+6/19	&25.2	&18.75	&18.75	&23.94	    &17.81	    &17.81	    &22.68	    &16.87	    &16.87	    &21.42	    &15.9    	& 15.95     &25\\
+6/29	&27	    &20.25	&14.25	&25.65	    &19.23	    &13.53	    &24.3	    &18.22	    &12.82	    &22.95	    &17.2    	& 12.11     &25\\
+7/9	    &33.9	&26.25	&26.25	&32.20	    &24.93	    &24.93	    &30.51	    &23.62	    &23.62	    &28.81	    &22.3	    & 22.31     &30\\
+7/19	&41.7	&30	    &30	    &39.61	    &28.5	    &28.5	    &37.53	    &27	        &27	        &35.44	    &25.5	    & 25.5	    &25\\
+7/29	&53.7	&22.5	&22.5	&51.01	    &21.3	    &21.3	    &48.33	    &20.25	    &20.25	    &45.64	    &19.12	    & 19.1      &40\\
+8/4	    &53.7	&22.5	&22.5	&51.01	    &21.37	    &21.37	    &48.33	    &20.25	    &20.25	    &45.64	    &19.15	    & 19.5      &35\\
+8/13	&0	    &0	    &0	    &0	        &0	        &0	        &0	        &0	        &0	        &0	        &0	        & 0	        &35\\
+8/18	&22.08	&23.4	&15.3	&20.976	    &22.23	    &14.53	    &19.87 	    &21.06	    &13.77	    &18.76	    &19.89	    & 13.0      &30\\
+8/20	&0	    &0	  	&0	    &0	        &0	        &0	        &0	        &0	        &0	        &0	        &0	        & 0         &30\\
+            \bottomrule
+        \end{tabularx}
+    \end{adjustwidth}
+    \noindent{\footnotesize{The unit for fertilization is kg/ha.}}
+\end{table}
+
+
+\begin{table}[H]
+\caption{Irrigation and fertilization management data for 4 experimental fields in 2024.\label{tabe3}}
+	\begin{adjustwidth}{-\extralength}{0cm}
+		\newcolumntype{C}{>{\centering\arraybackslash}X}
+		\begin{tabularx}{\fulllength}{CCCCCCCCCCCCCC}
+			\toprule
+DATE    &T1_N	&T1_P	&T1_K	&T2_N	&T2_P	&T2_K	&T3_N	&T3_P	&T3_K	&T4_N	&T4_P	& T4_K &Ir(mm/ha)\\
+            \midrule
+4/20	&0	    &0	    &0	    &0	        &0	        &0	        &0	        &0	        &0	        &0	        &0	        & 0	        &30\\
+4/30	&0	    &0	    &0	    &0	        &0	        &0	        &0	        &0	        &0	        &0	        &0	        & 0	        &0\\
+5/10	&0	    &0	    &0	    &0	        &0	        &0	        &0	        &0	        &0	        &0	        &0	        & 0	        &0\\
+5/20	&0	    &0	    &0	    &0	        &0	        &0	        &0	        &0	        &0	        &0	        &0	        & 0	        &0\\
+5/30	&0	    &0	    &0	    &0	        &0	        &0	        &0	        &0	        &0	        &0	        &0	        & 0	        &0\\
+6/9	    &16.5	&11.25	&11.25	&15.67	    &10.68	    &10.68	    &14.85	    &10.12	    &10.12	    &14.02	    &9.56	    & 9.55      &9.3\\
+6/19	&25.2	&18.75	&18.75	&23.94	    &17.81	    &17.81	    &22.68	    &16.87	    &16.87	    &21.42	    &15.9    	& 15.95     &25\\
+6/29	&27	    &20.25	&14.25	&25.65	    &19.23	    &13.53	    &24.3	    &18.22	    &12.82	    &22.95	    &17.2    	& 12.11     &25\\
+7/9	    &33.9	&26.25	&26.25	&32.20	    &24.93	    &24.93	    &30.51	    &23.62	    &23.62	    &28.81	    &22.3	    & 22.31     &30\\
+7/19	&41.7	&30	    &30	    &39.61	    &28.5	    &28.5	    &37.53	    &27	        &27	        &35.44	    &25.5	    & 25.5	    &25\\
+7/29	&53.7	&22.5	&22.5	&51.01	    &21.3	    &21.3	    &48.33	    &20.25	    &20.25	    &45.64	    &19.12	    & 19.1      &40\\
+8/4	    &53.7	&22.5	&22.5	&51.01	    &21.37	    &21.37	    &48.33	    &20.25	    &20.25	    &45.64	    &19.15	    & 19.5      &35\\
+8/13	&0	    &0	    &0	    &0	        &0	        &0	        &0	        &0	        &0	        &0	        &0	        & 0	        &35\\
+8/18	&22.08	&23.4	&15.3	&20.976	    &22.23	    &14.53	    &19.87 	    &21.06	    &13.77	    &18.76	    &19.89	    & 13.0      &30\\
+8/20	&0	    &0	  	&0	    &0	        &0	        &0	        &0	        &0	        &0	        &0	        &0	        & 0         &30\\
+            \bottomrule
+        \end{tabularx}
+    \end{adjustwidth}
+    \noindent{\footnotesize{The unit for fertilization is kg/ha.“Ir” refers to the irrigation amount, measured in mm/ha.}}
+\end{table}
+
+
+
+
+\begin{table}[H]
+    \caption{Different depths of soil parameter data.\label{tabe4}}
+        \begin{adjustwidth}{-\extralength}{0cm}
+            \newcolumntype{C}{>{\centering\arraybackslash}X}
+                \begin{tabularx}{\fulllength}{p{0.5cm}<{\centering}CCCCCCCCCCCCCC}
+                \toprule
+               % \end{tabularx}  
+                    \textbf{SLB}	 &\textbf{SLLL}  &\textbf{SDUL}	  &\textbf{SSAT}	&\textbf{SRGF}	&\textbf{SSKS}	&\textbf{SBDM}	&\textbf{SLOC}	&\textbf{SLCL}	&\textbf{SLSI}	&\textbf{SLHW}		&\textbf{SCEC}\\  
+                \midrule%------------------    
+                5  &0.206  &0.323  &0.413	&1	     &4.3    &1.31	&0.41	&34	 &31  &8.5  &25.5    \\
+                15 &0.202  &0.311  &0.422	&0.74	 &4.3    &1.27	&0.35	&34	 &31  &8.5  &25.5    \\
+                30 &0.194  &0.312  &0.421	&0.61	 &4.3    &1.27	&0.27	&34	 &31  &8.5  &25.5    \\
+\bottomrule
+                \end{tabularx}
+        \end{adjustwidth}
+    \end{table}
+
+
+
+\begin{table}[H] 
+    \caption{Explanation of soil parameter variable codes.\label{tab5}}
+    \newcolumntype{C}{>{\centering\arraybackslash}X}
+    \begin{tabularx}{\textwidth}{llccc}
+    \toprule
+    \textbf{Indicator Code}	& \textbf{Explanation of Indicator Code}         &5cm&15cm&30cm\\
+    \midrule%------------------                                   
+       SLLL	   &Lower limit of plant extractable soil water, cm$^3$ cm$^{-3}$&0.206&0.202&0.194\\
+       SDUL	   &Drained upper limit, cm$^3$, cm$^{-3}$                       &0.323&0.311&0.312\\
+       SSAT	   &Upper limit, saturated, cm$^3$, cm$^{-3}$                    &0.413&0.422&0.421\\
+       SRGF	   &Root growth factor, soil only, 0.0 to 1.0                    &1&0.74&0.61\\
+       SSKS	   &Sat. hydraulic conductivity, macropore, cm h$^{-1}$          &4.3&4.3&4.3\\
+       SBDM	   &Bulk density, moist, g cm$^{-3}$                             &1.31&1.27&1.27\\
+       SLOC	   &Organic carbon, \%                                           &0.41&0.35&0.27\\
+       SLCL	   &Clay (<0.002 mm), \%                                         &34&34&34\\
+       SLSI	   &Silt (0.05 to 0.002 mm),\%                                   &31&31&31\\
+       SLHW	   &pH in water                                                  &8.5&8.3&8.1\\
+       SCEC	   &Cation exchange capacity, cmol kg$^{-1}$                     &25.5&25.5&25.5\\
+    \bottomrule
+    \end{tabularx}
+
+    \end{table}
+
+
+
+    \begin{table}[H]
+    \caption{\hl{Field} %MDPI: We removed vertical lines, please confirm.%Author’s proofreading response:I confirm.
+ Phenology data observation results.\label{tab6}}
+        \begin{adjustwidth}{-\extralength}{0cm}
+            \newcolumntype{C}{>{\centering\arraybackslash}X}
+                \begin{tabularx}{\fulllength}{m{2cm}<{\centering}m{1cm}<{\centering}m{2cm}<{\centering}m{2cm}<{\centering}m{1.5cm}<{\centering}m{2cm}<{\centering}m{2cm}<{\centering}m{2.5cm}<{\centering}}%每一列居中
+                \toprule%第一条线加粗---------------
+               % \end{tabularx}  
+               \textbf{Irrigation Treatment}  &\textbf{Number of Plants}  &\textbf{Total Bolls}    \textbf{(Including Unopened Bolls)} &\textbf{Number of Unopened Bolls}	&\textbf{Average Number of Plants}     &\textbf{Average Number of Bolls}   &\textbf{Average Number of Unopened Bolls}	   &\textbf{num\_boll\_i}  \textbf{ (Assuming All Bolls Are Opened)}\\
+                \end{tabularx}
+                \begin{tabularx}{\fulllength}{m{2cm}<{\centering}m{1cm}<{\centering}m{2cm}<{\centering}m{2cm}<{\centering}m{1.8cm}<{\centering}m{2cm}<{\centering}m{1.8cm}<{\centering}m{2.7cm}<{\centering}}%C|CCC|CCCp{2.5cm}<{\centering}每一列居中
+                \hline
+                
+%------------------    
+                              \textcolor{red}{\hl{Ck -1} %MDPI: Please confirm if the bold is unnecessary and can be removed. The following highlights are the same..%Author’s proofreading response:I confirm.
+} &18  &129	&36	  &   \multirow{3}{3.5cm}{18 ± 0.00 \hl{a} %MDPI: Please add explanation for different lowercase letters in table footer.%Author’s proofreading response:I have checked and revised all.
+}\centering	&\multirow{3}{3.5cm}{7 ± 0.21 a}    &\multirow{3}{3.5cm}{2 ± 0.22 ab}	   &\multirow{3}{3.5cm}{118,731 ± 3661 a}\\
+                              \textcolor{red}{Ck -2} &18  &117	&23	                      	                                                                                                      \\
+                              \textcolor{red}{Ck -3} &18  &128	&25	                      	                                                                                                      \\
+                              \textcolor{red}{Ck*-1} &21  &110	&18	  &   \multirow{3}{3.5cm}{17 ± 2.33 \hl{ab} %MDPI: .%Author’s proofreading response:I have checked and revised all.
+}	&\multirow{3}{3.5cm}{7 ± 0.92 a}    &\multirow{3}{3.5cm}{1 ± 0.25 ab}	   &\multirow{3}{3.5cm}{105,715 ± 12,930 a}\\
+                              \textcolor{red}{Ck*-2} &16  &135	&26	                       	                  	                                                                                   \\
+                              \textcolor{red}{Ck*-3} &13  &88	&12	                       	                                                                                                           \\
+                              \textcolor{red}{Tr0-1} &16  &116	&14	  &   \multirow{3}{3.5cm}{15 ± 0.88 ab}	&\multirow{3}{3.5cm}{7 ± 0.28 a}    &\multirow{3}{3.5cm}{1 ± 0.07 b}	   &\multirow{3}{3.5cm}{103,493 ± 3535 a}\\
+                              \textcolor{red}{Tr0-2} &15  &106	&13	                       	                  	                                                                                   \\
+                              \textcolor{red}{Tr0-3} &13  &104	&14	                       	                  	                                                                                   \\
+                              \textcolor{red}{Tr1-1} &13  &93	    &24	  &   \multirow{3}{3.5cm}{13 ± 0.33 b}	&\multirow{3}{3.5cm}{8 ± 0.89 a}    &\multirow{3}{3.5cm}{2 ± 0.72 ab}	   &\multirow{3}{3.5cm}{92,699 ± 12,542 a}      \\
+                              \textcolor{red}{Tr1-2} &13  &122	&43	                       	                  	                                                                                    \\
+                              \textcolor{red}{Tr1-3} &12  &77	    &10	                       	                  	                                                                                         \\
+                              \textcolor{red}{Tr2-1} &12  &127	&49	  &   \multirow{3}{3.5cm}{14 ± 1.20 ab}	&\multirow{3}{3.5cm}{9 ± 0.98 a}    &\multirow{3}{3.5cm}{3 ± 0.73 a}	   &\multirow{3}{3.7cm}{116,191 ± 5245 a}   \\
+                              \textcolor{red}{Tr2-2} &16  &132	&39	                        	    	                                                                                           \\
+                              \textcolor{red}{Tr2-3} &15  &111	&24	   			                                                                                                                     \\
+                \noalign{\hrule height 1.0pt} %---------------  
+                \end{tabularx}
+        \end{adjustwidth}
+        \noindent{\footnotesize{\textcolor{red}{a:significant difference. b:secondary significant difference. ab:slight significant difference.\\Note: The different lowercase letters within one column mean significant difference among treatments at $P<0.05$.}}}
+    \end{table}
+
+
+
+\begin{table}[H]
+    \caption{Genetic parameter data and range of varieties.\label{tab7}}
+        \begin{adjustwidth}{-\extralength}{0cm}
+            \newcolumntype{C}{>{\centering\arraybackslash}X}
+                \begin{tabularx}{\fulllength}{lp{12cm}l}%每一列居中
+                \toprule%第一条线加粗---------------
+               % \end{tabularx}  
+                        \textbf{Parameter}	&\textbf{Definition}\centering        	&\textbf{Value}\\
+                \midrule%------------------    	                                                                                                                                                                    
+                        CSDL  &Critical short day length below which reproductive development progresses with no day length effect (for short day plants) (hour)                   &23.11\\
+                        PPSEN &Slope of the relative development response to photoperiod with time (positive for short day plants) (1/h)	                                       &0.010\\
+                        EM-FL &Time between plant emergence and flower appearance (R1) (photothermal days)	                                                                       &43.28\\
+                        FL-SH &Time between first flower and first pod (R3) (photothermal days)	                                                                                   &9.10\\
+                        FL-SD &Time between first flower and first seed (R5) (photothermal days)	                                                                               &14.24\\
+                        SD-PM &Time between first seed (R5) and physiological maturity (R7) (photothermal days)	                                                                   &43.15\\
+                        FL-LF &Time between first flower (R1) and end of leaf expansion (photothermal days)	                                                                       &70.00\\
+                        LFMAX &Maximum leaf photosynthesis rate at 30 C, 350 vpm CO\hl{$_2$}, and high light \mbox{(mg CO$_2$/m$^2$-s)}	                                           &1.01\\
+                        SLAVR &Specific leaf area of cultivar under standard growth conditions (cm$^2$/g)	                                                                       &179.2\\
+                        SIZLF &Maximum size of full leaf (three leaflets) (cm$^2$)                                          	                                                   &282.1\\
+                        XFRT  &Maximum fraction of daily growth that is partitioned to seed + shells	                                                                           &0.9\\
+                        WTPSD &Maximum weight per seed (g)	                                                                                                                       &0.13\\
+                        SFDUR &Seed filling duration for pod cohort at standard growth conditions (photothermal days)	                                                           &23.03\\
+                        SDPDV &Average seed per pod under standard growing conditions (\#/pod\hl{$^{-1}$})	                                                                       &20.95\\
+                        PODUR &Time required for cultivar to reach final pod load under optimal conditions (photothermal days)	                                                   &6.20\\
+                        THRSH &Threshing percentage. The maximum ratio of (seed/(seed \hl{+} shell)) at maturity. Causes seeds to stop growing as their dry weight increases until the shells are filled in a cohort	 &72.30\\
+                        SDPRO &Fraction protein in seeds (g(protein)/g\hl{$^{-1}$}(seed))	                                                                                                                             &0.157\\
+                        SDLIP &Fraction oil in seeds (g(oil)/g(seed))	                                                                                                                                                 &0.121\\                                                                                                                                      
+                \bottomrule
+                \end{tabularx}
+        \end{adjustwidth}
+        \noindent{\footnotesize{ }}
+    \end{table}
+%%%表7################################################################
+
+
+
+\begin{table}[H] 
+        \caption{Field observation seed cotton yield results and simulated yield results data.\label{tab8}}
+        \newcolumntype{C}{>{\centering\arraybackslash}X}
+        \begin{tabularx}{\textwidth}{lCCC}
+        \toprule%第一条线加粗---------------
+       % \end{tabularx}                                                                                                                                                     
+                    \textbf{Treatment}	&\textbf{Observe Yield (kg/ha)}  &\textbf{DSSAT Simulated Yield (kg/ha)}  &\textbf{Grid division simulates yield(kg/mu)}\\
+        \midrule%------------------  
+                
+                    T1	  &6712 &7112  &6566.92\\
+                    T2	  &6531 &6831  &6394.86\\
+                    T3	  &6400 &6710  &6024.81\\
+                    T4	  &6143 &6820  &6143.54\\
+        \midrule%------------------  
+                    \textcolor{red}{r2,d} &\multicolumn{3}{c}{r2:0.856,d:0.616}\\  
+                    \bottomrule
+        \end{tabularx}
+        \noindent{\footnotesize{}}
+        \end{table}
+
+
+
+
+\begin{table}[H]
+    \caption{Field Phenology data observation results.\label{tab6}}
+        \begin{adjustwidth}{-\extralength}{0cm}
+            \newcolumntype{C}{>{\centering\arraybackslash}X}
+                \begin{tabularx}{\textwidth}{CCCC}
+                \toprule%第一条线加粗---------------
+               % \end{tabularx}  
+               \textbf{Treatment}  &\textbf{$PLANTnum_{i}$}  &\textbf{$BOLLnum_{i}$}  &\textbf{ $\overline{Yeild_{i}}$}\\
+                \midrule
+                              T0-1 &18  &129	 &\multirow{3}{118,731}\\
+                              T0-2 &18  &117	            \\
+                              T0-3 &18  &128	            \\
+                              T1-1 &21  &110	 &\multirow{3}{105,715}\\
+                              T1-2 &16  &135	             \\
+                              T1-3 &13  &88	   	                 \\
+                              T2-1 &16  &116	 &\multirow{3}{103,493 }\\
+                              T2-2 &15  &106	             \\
+                              T2-3 &13  &104	             \\
+                              T4-1 &13  &93	   	 &\multirow{3}{92,699}      \\
+                              T4-2 &13  &122	              \\
+                              T4-3 &12  &77	   	                   \\
+                              T5-1 &12  &127	 &\multirow{3}{116,191}   \\
+                              T5-2 &16  &132	               \\
+                              T5-3 &15  &111	   			\\
+                \noalign{\hrule height 1.0pt} %---------------  
+                \end{tabularx}
+        \end{adjustwidth}
+    \end{table}
